@@ -20,7 +20,7 @@ img{
 main{
     background:white;
     display:grid;
-    grid-template-columns: 280px;
+    grid-template-columns: 290px;
     gap: .5rem;
     border-radius: 20px;
     box-shadow: 0 .5rem .8rem 1px rgba(0, 0, 0, 0.086);
